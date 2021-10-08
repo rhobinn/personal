@@ -1,0 +1,100 @@
+uuid,monomer_name,alternative_name,cas,iupac_name,functional_group,functional_subgroup,number_functional_groups,functional_group_order,molecular_weight,formula,smiles,active,creation_date
+012b2ad3-bf93-11ea-864f-24418c6578e4,R93100,,,,alkene,methacrylate,2,secondary_alkene,,C29H36O8,CC(=C)C(=O)OCC(COC1=CC=C(C=C1)C(C)(C)C2=CC=C(C=C2)OCC(COC(=O)C(=C)C)O)O,true,2020-07-13 04:10:07
+061a2088-bf92-11ea-864f-24418c6578e4,APE,,,,alkene,allyl,3,primary_alkene,,C14H24O4,C=CCOCC(CO)(COCC=C)COCC=C,true,2020-07-13 04:10:07
+071de19d-5a82-11eb-b497-061f61387e64,BMBP,,,"4,4′-Bis(mercaptomethyl)biphenyl",thiol,thiol,2,primary_thiol,,C14H14S2 ,	SCc1ccc(cc1)-c2ccc(CS)cc2,true,2021-01-19 18:13:27
+1547ce02-bf93-11ea-864f-24418c6578e4,HDDA,,13048-33-4,"1,6-Hexanediol diacrylate",alkene,acrylate,2,primary_alkene,226.27,C12H18O4,C=CC(=O)OCCCCCCOC(=O)C=C,true,2020-07-13 04:10:07
+18dc8a37-bf92-11ea-864f-24418c6578e4,Acr7,,24447-78-7,Bisphenol A bis(2-hydroxyethyl ether) diacrylate,alkene,acrylate,2,primary_alkene,424.5,C25H28O6,CC(C)(C1=CC=C(C=C1)OCCOC(=O)C=C)C2=CC=C(C=C2)OCCOC(=O)C=C,true,2020-07-13 04:10:07
+1a6d3f6f-495d-11eb-b497-061f61387e64,ACRYLOXY Siloxane,,,ACRYLOXY TERMINATED ETHYLENEOXIDE DIMETHYLSILOXANE-ETHYLENEOXIDE,,,,,,,,true,2020-12-28 22:36:18
+1c2bfd2b-e65b-11eb-9289-061f61387e64,TVS,,,Tetravinylsilane,alkene,vinyl,4,primary_alkene,,C8H12Si,C=C[Si](C=C)(C=C)C=C,true,2021-07-16 17:27:35
+25ed29d9-1317-11eb-b497-061f61387e64,C150,,,,,,,,,,,true,2020-10-20 20:59:30
+275a4a83-e358-11eb-9289-061f61387e64,TAGXL,,,"1,1,2,2-Tetraallyloxyethane",alkene,allyl,4,primary_alkene,,C14H22O4,C=CCOC(OCC=C)C(OCC=C)OCC=C,true,2021-07-12 21:28:52
+2efed34f-b4f3-11eb-b497-061f61387e64,Aronix 6812,,,,,,,,,,,true,2021-05-14 20:30:12
+370d41da-1ae2-11eb-b497-061f61387e64,BR-744SD,,,,,,,,,,,true,2020-10-30 19:00:45
+45fcffaa-40b7-11eb-b497-061f61387e64,Fluoro-diacrylate,,,"2,2,3,3,4,4-Hexafluoro-1,5-pentyldimethacrylate",,,,,,C13H14O4F6,,true,2020-12-17 22:29:06
+51675e44-b5d9-11ea-864f-24418c6578e4,TEMPIC,TMEPIC,36196-44-8,,thiol,thiol,3,primary_thiol,525.6,C18H27N3O9S3,C(CS)C(=O)OCCN1C(=O)N(C(=O)N(C1=O)CCOC(=O)CCS)CCOC(=O)CCS,true,2020-06-24 00:12:36
+516760ae-b5d9-11ea-864f-24418c6578e4,PE1,PE-1,31775-89-0,Pentaerythritol tetrakis (3-mercaptobutylate),thiol,thiol,4,secondary_thiol,544.8,C21H36O8S4,CC(CC(=O)OCC(COC(=O)CC(C)S)(COC(=O)CC(C)S)COC(=O)CC(C)S)S,true,2020-06-24 00:12:36
+51676243-b5d9-11ea-864f-24418c6578e4,PETMP,"4T, PEMP-LV",7575-23-7,Pentaerythritol tetrakis(3-mercaptopropionate),thiol,thiol,4,primary_thiol,488.7,C17H28O8S4,C(CS)C(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS,true,2020-06-24 00:12:36
+51676363-b5d9-11ea-864f-24418c6578e4,TMPMP,TMTMP,33007-83-9,Trimethylolpropane tris(3-mercaptopropionate),thiol,thiol,3,primary_thiol,398.56,C15H26O6S3,CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS,true,2020-06-24 00:12:36
+5168230f-b5d9-11ea-864f-24418c6578e4,TAICROS,TATATO,1025-15-6,Triallyl isocyanurate,alkene,allyl,3,primary_alkene,249.27,C12H15N3O3,C=CCN1C(=O)N(C(=O)N(C1=O)CC=C)CC=C,true,2020-06-24 00:12:36
+51682533-b5d9-11ea-864f-24418c6578e4,TAcICN,"TAIC, A-9300, PH4356",40220-08-04,"2,4,6-Trioxo-1,3,5-triazinane-1,3,5-triyl)triethane-2,1-diyl trisprop-2-enoate",alkene,acrylate,3,primary_alkene,423.4,C18H21N3O9,C=CC(=O)OCCN1C(=O)N(C(=O)N(C1=O)CCOC(=O)C=C)CCOC(=O)C=C,true,2020-06-24 00:12:36
+516825c2-b5d9-11ea-864f-24418c6578e4,IPDI,,4098-71-9,Isophorone diisocyanate,isocyanate,isocyanate,2,,222.28,C12H18N2O2,CC1(CC(CC(C1)(C)CN=C=O)N=C=O)C,true,2020-06-24 00:12:36
+5168270d-b5d9-11ea-864f-24418c6578e4,DAP,,,,,,,,,,,true,2020-06-24 00:12:36
+5168281a-b5d9-11ea-864f-24418c6578e4,DIP,,1087-21-4,Diallyl isophthalate,alkene,allyl,2,primary_alkene,246.26,C14H14O4,C=CCOC(=O)C1=CC(=CC=C1)C(=O)OCC=C,true,2020-06-24 00:12:36
+5168287b-b5d9-11ea-864f-24418c6578e4,GDMP,"2T, HD-SH ",22504-50-3,Ethylene bis(3-mercaptopropionate),thiol,thiol,2,primary_thiol,238.3,C8H14O4S2,C(CS)C(=O)OCCOC(=O)CCS,true,2020-06-24 00:12:36
+516828dc-b5d9-11ea-864f-24418c6578e4,CN9090,,,,,,,,,,,true,2020-06-24 00:12:36
+51690be6-b5d9-11ea-864f-24418c6578e4,TCMDA,R-684,42594-17-2,"Tricyclodecanedimethanol (1,5)-diacrylate",alkene,acrylate,2,primary_alkene,304.4,C18H24O4,C=CC(=O)OCC1CCC2C1C3CC(C2C3)COC(=O)C=C,true,2020-06-24 00:12:36
+51690f71-b5d9-11ea-864f-24418c6578e4,GE24,,,,,,,,,,,true,2020-06-24 00:12:36
+5169cc8a-b5d9-11ea-864f-24418c6578e4,EDDT,,14970-87-7,"1,2-Bis(2-mercaptoethoxy)ethane",thiol,thiol,2,primary_thiol,182.3,C6H14O2S2,C(COCCS)OCCS,true,2020-06-24 00:12:36
+5169cdcf-b5d9-11ea-864f-24418c6578e4,DoDT,,112-55-0,1-Dodecanethiol,thiol,thiol,1,primary_thiol,202.4,C12H26S,CCCCCCCCCCCCS,true,2020-06-24 00:12:36
+5169ce54-b5d9-11ea-864f-24418c6578e4,NR1,NR-1,928339-75-9,"1,3,5-Tris(3-melcaptobutyloxethyl)-1,3,5-triazine-2,4,6(1H,3H,5H)-trione",thiol,thiol,3,secondary_thiol,567.7,C21H33O9N3S3,CC(S)CC(=O)OCCN1C(=O)N(CCOC(=O)CC(C)S)C(=O)N(CCOC(=O)CC(C)S)C1=O,true,2020-06-24 00:12:36
+5169cec4-b5d9-11ea-864f-24418c6578e4,4T,PETMP,7575-23-7,Pentaerythritol tetrakis(3-mercaptopropionate),thiol,thiol,4,primary_thiol,488.7,C17H28O8S4,C(CS)C(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS,true,2020-06-24 00:12:36
+5169cf29-b5d9-11ea-864f-24418c6578e4,W,,,,,,,,,,,true,2020-06-24 00:12:36
+5169cf8f-b5d9-11ea-864f-24418c6578e4,3T,TMMP-LV,33007-83-9,Trimethylolpropane tris(3-mercaptopropionate),thiol,thiol,3,primary_thiol,398.56,C15H26O6S3,CCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS,true,2020-06-24 00:12:36
+5169d104-b5d9-11ea-864f-24418c6578e4,Butylacrylate,,141-32-2,Butyl acrylate,alkene,acrylate,1,primary_alkene,128.17,C7H12O2,CCCCOC(=O)C=C,true,2020-06-24 00:12:36
+5169d18d-b5d9-11ea-864f-24418c6578e4,DoDAc,,,,,,,,,,,true,2020-06-24 00:12:36
+5169d2d9-b5d9-11ea-864f-24418c6578e4,POSS8MA,,,,,,,,,,,true,2020-06-24 00:12:36
+5169d422-b5d9-11ea-864f-24418c6578e4,TVCH,,2855-27-8,"1,2,4-Trivinylcyclohexane",alkene,vinyl,3,primary_alkene,162.27,C12H18,C=CC1CCC(C(C1)C=C)C=C,true,2020-06-24 00:12:36
+5169d53b-b5d9-11ea-864f-24418c6578e4,144H15,,,,,,,,,,,true,2020-06-24 00:12:36
+5169d5a6-b5d9-11ea-864f-24418c6578e4,TAA,,,,,,,,,,,true,2020-06-24 00:12:36
+5169d608-b5d9-11ea-864f-24418c6578e4,DEDGE,,,,,,,,,,,true,2020-06-24 00:12:36
+5169d667-b5d9-11ea-864f-24418c6578e4,PH4356,,,,alkene,acrylate,3,primary_alkene,,C18H21N3O9,C=CC(=O)OCCN1C(=O)N(C(=O)N(C1=O)CCOC(=O)C=C)CCOC(=O)C=C,true,2020-06-24 00:12:36
+516aa711-b5d9-11ea-864f-24418c6578e4,TMPTMA,,3290-92-4,Trimethylolpropane trimethacrylate,alkene,methacrylate,3,secondary_alkene,338.4,C18H26O6,CCC(COC(=O)C(=C)C)(COC(=O)C(=C)C)COC(=O)C(=C)C,true,2020-06-24 00:12:36
+516aa950-b5d9-11ea-864f-24418c6578e4,U483,,,,,,,,,,,true,2020-06-24 00:12:36
+516aa9db-b5d9-11ea-864f-24418c6578e4,6210,,,,,,,,,,,true,2020-06-24 00:12:36
+516aaa43-b5d9-11ea-864f-24418c6578e4,6230,,,,,,,,,,,true,2020-06-24 00:12:36
+516aaaa5-b5d9-11ea-864f-24418c6578e4,6891,,,,,,,,,,,true,2020-06-24 00:12:36
+516aab1d-b5d9-11ea-864f-24418c6578e4,1293,,,,,,,,,,,true,2020-06-24 00:12:36
+516aab81-b5d9-11ea-864f-24418c6578e4,1333,,,,,,,,,,,true,2020-06-24 00:12:36
+516aabdf-b5d9-11ea-864f-24418c6578e4,1266,,,,,,,,,,,true,2020-06-24 00:12:36
+516aae1a-b5d9-11ea-864f-24418c6578e4,DMI1266,,,,alkene,methacrylate,2,secondary_alkene,,C23H38N2O8,CC(CCNC(=O)OCCOC(=O)C(=C)C)CC(C)(C)CNC(=O)OCCOC(=O)C(=C)C,true,2020-06-24 00:12:36
+516aae91-b5d9-11ea-864f-24418c6578e4,CN9101,,,,,,,,,,,true,2020-06-24 00:12:36
+516ab0ac-b5d9-11ea-864f-24418c6578e4,SR368D,,,,,,,,,,,true,2020-06-24 00:12:36
+516ab49f-b5d9-11ea-864f-24418c6578e4,PEGDA,,,,alkene,acrylate,2,primary_alkene,,C8H10O4,C=CC(=O)OCCOC(=O)C=C,true,2020-06-24 00:12:36
+516ab512-b5d9-11ea-864f-24418c6578e4,TMPDE,,0682-09-07,Trimethylolpropane diallyl ether,alkene,allyl,2,primary_alkene,214.3,C12H22O3,CCC(CO)(COCC=C)COCC=C,true,2020-06-24 00:12:36
+516ab663-b5d9-11ea-864f-24418c6578e4,SR368,,,,,,,,,,,true,2020-06-24 00:12:36
+516ab6d7-b5d9-11ea-864f-24418c6578e4,A9300S,,,,,,,,,,,true,2020-06-24 00:12:36
+516bb505-b5d9-11ea-864f-24418c6578e4,TPTE,,,,,,,,,,,true,2020-06-24 00:12:36
+516bbbf3-b5d9-11ea-864f-24418c6578e4,TCMDMA,,,,,,,,,,,true,2020-06-24 00:12:36
+516bc9ff-b5d9-11ea-864f-24418c6578e4,BRT-841,,,,,,,,,,,true,2020-06-24 00:12:36
+516bcb0f-b5d9-11ea-864f-24418c6578e4,DYMAX,,,,,,,,,,,true,2020-06-24 00:12:36
+516bce06-b5d9-11ea-864f-24418c6578e4,8315,,,,,,,,,,,true,2020-06-24 00:12:36
+516bd030-b5d9-11ea-864f-24418c6578e4,1967,,,,,,,,,,,true,2020-06-24 00:12:36
+516c9bec-b5d9-11ea-864f-24418c6578e4,CN1964,,41137-60-4,"Di-2-methacryloxyethyl 2,2,4-trimethylhexamethylenedicarbamate",alkene,methacrylate,2,secondary_alkene,470.6,C23H38N2O8,CC(CCNC(=O)OCCOC(=O)C(=C)C)CC(C)(C)CNC(=O)OCCOC(=O)C(=C)C,true,2020-06-24 00:12:36
+53b9a712-bf92-11ea-864f-24418c6578e4,Acr1,,,,alkene,acrylate,3,primary_alkene,,C21H32O9,C=CC(=O)OCCCOCC(COCCCOC(=O)C=C)OCCCOC(=O)C=C,true,2020-07-13 04:10:07
+5497a95c-d749-11ea-b497-061f61387e64,HDDMA,,,"1,6-Hexanediol dimethacrylate",,,,,,C14H22O4,[H2C=C(CH3)CO2(CH2)3-]2,true,2020-08-05 18:27:34
+57210adc-f775-11ea-b497-061f61387e64,NGDM,,,Neopentyl glycol dimethacrylate,,,,,,,,true,2020-09-15 17:03:13
+59d7062b-eb90-11ea-b497-061f61387e64,FA-512M,,,,,,,,,,,true,2020-08-31 13:46:20
+5f063407-64be-11eb-b497-061f61387e64,TDET,,,"2,2′-Thiodiethanethiol",thiol,thiol,2,primary_thiol,,(HSCH2CH2)2S,	SCCSCCS,true,2021-02-01 18:50:36
+616e8df4-f775-11ea-b497-061f61387e64,NGDA,,,Neopentyl glycol diacrylate,,,,,,,,true,2020-09-15 17:03:30
+63438732-eb1f-11eb-9289-061f61387e64,Photomer 6643,,,Aliphatic Urethane Acrylate,,,,,,,,true,2021-07-22 19:02:40
+7288206c-3a6c-11eb-b497-061f61387e64,DiallylDC,,,"diallyl 1,4-cyclohexanedicarboxylate",alkene,allyl,2,primary_alkene,,C14H20O4,C=CCOC(=O)C1CCC(CC1)C(=O)OCC=C,true,2020-12-09 22:18:21
+73bd7906-eb1f-11eb-9289-061f61387e64,Photomer 2203 (IGM),,,Acid Function methacrylate,,,,,,,,false,2021-07-22 19:03:08
+779b008b-e677-11eb-9289-061f61387e64,DCDT,,,"1,10-Decanedithiol",thiol,thiol,2,primary_thiol,,C10H22S2,C(CCCCCS)CCCCS,true,2021-07-16 20:50:34
+7a65de4a-ef1d-11eb-9289-061f61387e64,Photomer 6230,,,,,,,,,,,true,2021-07-27 20:59:05
+7b2d7ddb-7624-11eb-b497-061f61387e64,GDGD,,,"Glycerol 1,3-diglycerolate diacrylate",alkene,acrylate,2,primary_alkene,,C15H24O9,OC(COCC(O)COC(=O)C=C)COCC(O)COC(=O)C=C,true,2021-02-23 22:14:22
+7c1d7855-fad6-11eb-9289-061f61387e64,TVT,,,Tetravinyltin,alkene,vinyl,4,primary_alkene,,C8H12Sn,C=C[Sn](C=C)(C=C)C=C,true,2021-08-11 19:01:07
+83ff5e34-af4f-11eb-b497-061f61387e64,BD1,,,"1,4-Bis(3-mercaptobutyryloxy)butane",thiol,thiol,2,secondary_thiol,,C12H22O4S2,CC(CC(=O)OCCCCOC(=O)CC(C)S)S,true,2021-05-07 16:16:01
+8d728b0d-bf92-11ea-864f-24418c6578e4,PEPT,,,,thiol,thiol,3,primary_thiol,,C14H30O4S3,C(COCC(CO)(COCCCS)COCCCS)CS,true,2020-07-13 04:10:07
+8df23513-6bc3-11eb-b497-061f61387e64,EDT,,,"1,2-Ethanedithiol",thiol,thiol,2,primary_thiol,,HSCH2CH2SH ,	SCCS,true,2021-02-10 17:15:20
+9864ff62-e677-11eb-9289-061f61387e64,HXDT,,,"1,6-Hexanedithiol",thiol,thiol,2,primary_thiol,,C6H14S2,C(CCCS)CCS,true,2021-07-16 20:51:29
+9d336a60-daa5-11eb-b497-061f61387e64,HPTY,,,"1,6-Heptadiyne",,,,,,C7H8,C#CCCCC#C,true,2021-07-01 19:50:40
+a0786f57-bf92-11ea-864f-24418c6578e4,TSG,,SCHEMBL18106237,"1,3,4,6-Tetra(2-mercaptoethyl)octahydroimidazo[4,5-d]imidazole-2,5-dione",thiol,thiol,4,primary_thiol,382.6,C12H22N4O2S4,C(CS)N1C2C(N(C1=O)CCS)N(C(=O)N2CCS)CCS,true,2020-07-13 04:10:07
+a5c808c4-59d8-11eb-b497-061f61387e64,BPDMA,,,Bisphenol A dimethacrylate,,,,,,[H2C=C(CH3)CO2C6H4]2,,true,2021-01-18 22:00:59
+a93d13f5-bfe6-11eb-b497-061f61387e64,BMPT,,,"2,3-Bis((2-mercaptoethyl)thio)-1-propanethiol",thiol,thiol,3,primary_thiol,,C7H16S5,C(CSCC(CS)SCCS)S,true,2021-05-28 18:58:16
+a986c0fc-bf91-11ea-864f-24418c6578e4,HDT,,1191-43-1,"1,6-Hexanedithiol",thiol,thiol,2,primary_thiol,150.3,C6H14S2,C(CCCS)CCS,true,2020-07-13 04:10:07
+af6ad837-c07c-11ea-b497-061f61387e64,Hexylamine,,,,,,,,,,,true,2020-07-07 18:07:13
+b4782a70-bf92-11ea-864f-24418c6578e4,TMTTG,,,,thiol,thiol,3,primary_thiol,,C12H20O6S3,CCC(COC(=O)CS)(COC(=O)CS)COC(=O)CS,true,2020-07-13 04:10:07
+c79a9333-bf92-11ea-864f-24418c6578e4,DPHA,,29570-58-9,Dipentaerythritol hexaacrylate,alkene,acrylate,6,primary_alkene,578.6,C28H34O13,C=CC(=O)OCC(COCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C,true,2020-07-13 04:10:07
+ca2775e2-eb1f-11eb-9289-061f61387e64,Photomer 2203 ,,,Acid Function methacrylate,,,,,,,,false,2021-07-22 19:05:33
+ca79245e-f0ae-11eb-9289-061f61387e64,DDT,,,"1,10-Decanedithiol",thiol,thiol,2,primary_thiol,,C10H22S2,SCCCCCCCCCCS,true,2021-07-29 20:51:47
+ce32b41b-bf91-11ea-864f-24418c6578e4,DT1,,,,,,,,,C12H20O2,C1CC2C3CC(C2C1CO)CC3CO,true,2020-07-13 04:10:07
+d8da4623-bf90-11ea-864f-24418c6578e4,TMPTA,,15625-89-5,Trimethylolpropane triacrylate,alkene,acrylate,3,primary_alkene,296.31,C15H20O6,CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C,true,2020-07-13 04:10:07
+d9c21421-f775-11ea-b497-061f61387e64,VN,,,Vinyl Norbornene,,,,,,,,true,2020-09-15 17:06:52
+daf8637d-bf92-11ea-864f-24418c6578e4,PET30,,3524-68-3,Pentaerythritol triacrylate,alkene,acrylate,3,primary_alkene,298.29,C14H18O7,C=CC(=O)OCC(CO)(COC(=O)C=C)COC(=O)C=C,true,2020-07-13 04:10:07
+e130850c-bf91-11ea-864f-24418c6578e4,DT2,,1191-67-9,"1,10-Decanedithiol",thiol,thiol,2,primary_thiol,206.4,C10H22S2,C(CCCCCS)CCCCS,true,2020-07-13 04:10:07
+e19c03e5-e677-11eb-9289-061f61387e64,DGBE,,,Diethylene Glycol Bis(2-propynyl) Ether,,,,,,C10H14O3,C#CCOCCOCCOCC#C,true,2021-07-16 20:53:32
+e939f18d-ef11-11ea-b497-061f61387e64,POSS-8A,,,,,,,,,,,true,2020-09-05 00:51:19
+edf41c91-bf92-11ea-864f-24418c6578e4,T1420,,,,alkene,acrylate,4,primary_alkene,,C24H34O9,CCC(COCC(CC)(COC(=O)C=C)COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C,true,2020-07-13 04:10:07
+ef1a71b1-caa2-11ea-b497-061f61387e64,BR-744BT,,,,,,,,,,,true,2020-07-20 16:06:13
+f2f78df7-bf91-11ea-864f-24418c6578e4,DA,,3739-67-1,"2,2-Bis(4-allyloxyphenyl)propane",alkene,allyl,2,primary_alkene,308.4,C21H24O2,CC(C)(C1=CC=C(C=C1)OCC=C)C2=CC=C(C=C2)OCC=C,true,2020-07-13 04:10:07
+f37e9ee4-daa4-11eb-b497-061f61387e64,OCTY,,,"1,7-Octadiyne",,,,,,C8H10,C#CCCCCC#C,true,2021-07-01 19:45:55
