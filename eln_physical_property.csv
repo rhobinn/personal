@@ -1,0 +1,27 @@
+uuid,name,active,units
+e6ff9321-8114-11ea-ae7c-24418c6578e4,L*,true,
+2b392386-ec60-11ea-b497-061f61387e64,Linear Peel (T-peel),true,N/cm
+cb74edca-cab1-11ea-b497-061f61387e64,Peel Strength (T-peel),true,N/cm
+aef81adf-b648-11ea-b497-061f61387e64,Pencil Hardness,true,
+6f893a57-ec60-11ea-b497-061f61387e64,Recovery Ratio,true,%
+d635f3ad-8114-11ea-ae7c-24418c6578e4,Resin Viscosity,true,cP
+a53d1abf-9191-11eb-b497-061f61387e64,Rubbery Modulus,true,MPa
+34faa352-c121-11ea-b497-061f61387e64,Storage Modulus,true,MPa
+0aa07c59-8115-11ea-ae7c-24418c6578e4,Strain to Failure,true,%
+ce50a621-8114-11ea-ae7c-24418c6578e4,Thickness of Color Sample,true,μm
+5cf15d27-bb10-11ea-b497-061f61387e64,Toughness,true,J/m^3
+d8c72237-8114-11ea-ae7c-24418c6578e4,Visible Light Transmission,true,%
+536ab84e-dd85-11ea-b497-061f61387e64,Water Contact Angle,true,°
+e4a271d4-8114-11ea-ae7c-24418c6578e4,Yellow Index,true,
+f5bf01b8-8114-11ea-ae7c-24418c6578e4,Young Modulus,true,MPa
+0d6e3ac4-719b-40a1-aff7-2ae9e0d4e391,Martens Hardness,true,HM
+1fe30e17-3a3e-4576-95f9-820c84d629b7,Haze,true,%
+8761df52-81ef-46f9-b5d1-a443ae85610c,Hard Coat Adhesion,true,
+b302e2f4-cf86-11eb-b497-061f61387e64,Cyclic Recovery Ratio,true,%
+be262402-bfed-11eb-b497-061f61387e64,Df,true,
+1371ff0a-d84e-11eb-b497-061f61387e64,Static Bend Angle,true,
+f0c31aca-8114-11ea-ae7c-24418c6578e4,Index of Refraction,true,
+0e218603-8115-11ea-ae7c-24418c6578e4,Tg,true,C
+3da16f3c-c860-4b3f-a26a-a606f3654953,a*,true,
+41af812a-58a0-44fd-93fe-9d6cd06de926,b*,true,
+07705419-8115-11ea-ae7c-24418c6578e4,Ultimate Tensile Strength,true,MPa
