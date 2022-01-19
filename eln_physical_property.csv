@@ -27,3 +27,16 @@ f0c31aca-8114-11ea-ae7c-24418c6578e4,Index of Refraction,true,
 07705419-8115-11ea-ae7c-24418c6578e4,Ultimate Tensile Strength,true,MPa
 abce70d0-e9a4-4e72-8eaf-389b5cdb2c17,Dielectric Constant
 d62b210e-c08d-4c98-b26b-60c67ea8bced7,Density,kg/m3
+d0401515-946e-4584-8503-07ab534be069,Thermal Degradation Temperature,%
+7ffc51a7-7173-4834-a32b-f921377ef563,Coefficient of Thermal Expansion,%
+68ffaada-a771-4b5f-9dfd-db8137f9f903,Thermal Shrinkage,%
+3a642139-8646-4a7a-92ee-d45a49f7da35,Storage Modulus,
+97586709-daf0-4c6d-ae41-0f04c4d0531a,Viscoelastic Region,
+b3480419-4a7d-484c-b963-bfaebb6ad8a2,Creep,
+40934cd3-3fc4-4970-9848-f7d932942e9f,Ultimate Elongation,%
+46b227d2-49eb-420d-89a0-b30c1a10d937,Yield Strength,N/m²
+0df83e7e-e43d-4c78-94eb-d8887442347a,Yield Strain,Pa
+577493b0-c084-4122-8e16-f2f9341b8ca5,90º Adhesion Test,J/m2
+28704cff-27f0-4685-b819-516085b4aa33,180º Adhesion Test,J/m2
+7d0c4099-a60d-44b8-9e8d-8c36186ba94e,Folding Endurance,
+717423b1-8d2a-4c0b-b2c0-eee972a2c88c,Percentage,%
